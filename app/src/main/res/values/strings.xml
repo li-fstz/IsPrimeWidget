@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">IsPrimeWidget</string>
-    <string name="appwidget_text">EXAMPLE</string>
+    <string name="appwidget_text">今天是质数吗</string>
+    <string name="appwidget_positive_text">今天是一个质数</string>
+    <string name="appwidget_negative_text">今天不是一个质数</string>
     <string name="add_widget">Add widget</string>
     <string name="app_widget_description">This is an app widget description</string>
 </resources>
